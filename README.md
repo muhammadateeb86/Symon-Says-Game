@@ -13,6 +13,7 @@ Contributing
 #Demo
 Check out a live demo of the game here.
 https://muhammadateeb86.github.io/Symon-Says-Game/
+
 #Features
 Randomly generates a sequence of colors that the player must repeat.
 Increases sequence length with each level.
